@@ -1,0 +1,47 @@
+html, body {
+	margin:0;
+}
+
+div{
+	overflow: hidden;
+	position: absolute;
+}
+.falling{
+	width: 601px;
+	height: 697px;
+}
+
+
+.a01{
+	background-image: url('img/tree.png');	
+}
+.a02{
+	background-image: url('img/apple01.png');	
+}
+.a03{
+	background-image: url('img/apple02.png');	
+}
+.a04{
+	background-image: url('img/apple03.png');	
+}
+.a05{
+	background-image: url('img/apple04.png');	
+}
+.a06{
+	background-image: url('img/apple05.png');	
+}
+.a07{
+	background-image: url('img/apple06.png');	
+}
+.a08{
+	background-image: url('img/apple07.png');	
+}
+.a09{
+	background-image: url('img/apple08.png');	
+}
+.a10{
+	background-image: url('img/apple09.png');	
+}
+.a11{
+	background-image: url('img/leaf.png');	
+}
